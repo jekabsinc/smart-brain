@@ -1,0 +1,3 @@
+main, form, label, input, legend, fieldset, a {
+    z-index: 10;
+}
